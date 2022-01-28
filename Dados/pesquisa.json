@@ -1,0 +1,10 @@
+{'01':{'Faixa etária':'50-54', 'Gênero':'Masculino', 'País': 'India', 'Escolaridade': 'Graduação', 'Ocupação': 'Outra'},
+            '02':{'Faixa etária':'50-54', 'Gênero':'Masculino', 'País': 'Indonésia', 'Escolaridade': 'Mestrado', 'Ocupação': 'Gerência de Projeos'},
+            '03':{'Faixa etária':'45-49', 'Gênero':'Masculino', 'País': 'México', 'Escolaridade': 'Doutorado', 'Ocupação': 'Pesquisa acadêmica'},
+            '04':{'Faixa etária':'25-29', 'Gênero':'Feminino', 'País': 'India', 'Escolaridade': 'Não respondeu', 'Ocupação': 'Desempregada'},
+            '05':{'Faixa etária':'18-21', 'Gênero':'Feminino', 'País': 'India', 'Escolaridade': 'Graduação', 'Ocupação': 'Estudante'},
+            '06':{'Faixa etária':'22-24', 'Gênero':'Feminino', 'País': 'Irã', 'Escolaridade': 'Graduação', 'Ocupação': 'Cientista de Dados'},
+            '07':{'Faixa etária':'45-49', 'Gênero':'Masculino', 'País': 'Brasil', 'Escolaridade': 'Doutorado', 'Ocupação': 'Pesquisa acadêmica'},
+            '08':{'Faixa etária':'25-29', 'Gênero':'Feminino', 'País': 'Polônia', 'Escolaridade': 'Mestrado', 'Ocupação': 'Engenheira de Machine Learning'},
+            '09':{'Faixa etária':'18-21', 'Gênero':'Feminino', 'País': 'India', 'Escolaridade': 'Mestrado', 'Ocupação': 'Estudante'},
+            '10':{'Faixa etária':'30-34', 'Gênero':'Masculino', 'País': 'India', 'Escolaridade': 'Graduação', 'Ocupação': 'Cientista de Dados'}}
