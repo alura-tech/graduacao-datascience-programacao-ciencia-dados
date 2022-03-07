@@ -1,0 +1,193 @@
+Timestamp,Age,Gender,City,Position ,Total years of experience,Years of experience in Germany,Seniority level,Your main technology / programming language,Other technologies/programming languages you use often,Yearly brutto salary (without bonus and stocks) in EUR,Yearly bonus + stocks in EUR,Annual brutto salary (without bonus and stocks) one year ago. Only answer if staying in the same country,Annual bonus+stocks one year ago. Only answer if staying in same country,Number of vacation days,Employment status,Сontract duration,Main language at work,Company size,Company type,Have you lost your job due to the coronavirus outbreak?,"Have you been forced to have a shorter working week (Kurzarbeit)? If yes, how many hours per week","Have you received additional monetary support from your employer due to Work From Home? If yes, how much in 2020 in EUR"
+24/11/2020 11:18:06,32.0,Female,Hamburg,Data Engineer,2,2,Junior,Aws Hadoop Postgre Typescript,"Python, Kotlin, Javascript / Typescript, SQL, AWS",52500.0,,52500.0,,30,Full-time employee,Unlimited contract,German,101-1000,Consulting / Agency,No,,
+24/11/2020 11:27:39,29.0,Female,Berlin,QA Engineer,7,1,Middle,,Javascript / Typescript,45000.0,2000,,,26,Full-time employee,Unlimited contract,English,51-100,Startup,No,,
+24/11/2020 11:28:58,28.0,Female,Berlin,Designer (UI/UX),7,7,Middle,Figma,,45000.0,,37000.0,,28,Full-time employee,Unlimited contract,German,1000+,Product,No,,
+24/11/2020 11:30:38,33.0,Female,Berlin,Software Engineer,12,5,Senior,С#,"Python, C/C++, Javascript / Typescript, .NET, SQL",88000.0,35200,96000.0,20000,30,Full-time employee,Unlimited contract,English,1000+,Product,,,
+24/11/2020 11:31:38,28.0,Female,Berlin,Designer (UI/UX),5,1,Senior,,,60000.0,,,,20,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 11:31:50,38.0,Female,Berlin,Backend Developer,12,6,Senior,,C/C++,70000.0,8000,63000.0,,28,Full-time employee,Unlimited contract,English,1000+,Product,No,0.0,
+24/11/2020 11:32:24,28.0,Female,Berlin,Designer (UI/UX),7,7,Middle,Figma,,45000.0,,37000.0,,28,Full-time employee,Unlimited contract,German,1000+,Product,No,,
+24/11/2020 11:32:28,29.0,Female,Berlin,QA Engineer,8,5,Senior,,,60000.0,,52000.0,,28,Full-time employee,Unlimited contract,English,51-100,Startup,Yes,,
+24/11/2020 11:35:25,39.0,Female,Berlin,Software Engineer,10,10,Senior,Java,"Javascript / Typescript, SQL",70500.0,1000,68000.0,,30,Full-time employee,Unlimited contract,German,101-1000,Consulting / Agency,No,,500
+24/11/2020 11:44:02,26.0,Female,Munich,Data Scientist,6,2,Middle,python,"Python, C/C++, SQL, Docker",60000.0,10000,60000.0,60000,26,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 11:44:18,31.0,Female,Berlin,Analytics engineer,6,2,Middle,SQL,Python,60000.0,,50000.0,500,27,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,500
+24/11/2020 11:46:15,32.0,Female,Berlin,QA Engineer,10,,Senior,Java,"Kotlin, Javascript / Typescript, SQL, Docker",61000.0,,55000.0,,30,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+24/11/2020 11:48:46,35.0,Female,Berlin,Reporting Engineer,3,2,Middle,Power BI,"Python, Javascript / Typescript, SQL, SAP / ABAP, Google Cloud, Azure",55000.0,3000,45000.0,,31,Full-time employee,Unlimited contract,German,1000+,Product,No,,
+24/11/2020 11:48:57,27.0,Female,Hamburg,Account Managet,6,1,Senior,,,50000.0,,,,28,Full-time employee,Temporary contract,English,101-1000,Product,No,,
+24/11/2020 11:49:06,32.0,Female,Berlin,Product Manager,8,8,No level,,,55000.0,,,,27,Full-time employee,Unlimited contract,German,11-50,Consulting / Agency,No,,
+24/11/2020 11:50:47,31.0,Female,Munich,agile master ,14,7,Middle,none,,80000.0,,80000.0,,30,Full-time employee,Unlimited contract,German,1000+,Product,No,,
+24/11/2020 11:52:49,38.0,Female,Munich,QA Engineer,6,2,Middle,Java,,62000.0,,62000.0,,26,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 11:57:37,28.0,Female,Munich,QA Engineer,6,2,Middle,,,65000.0,3000,42000.0,,25,Full-time employee,Unlimited contract,English,1000+,Product,No,,1600
+24/11/2020 11:57:53,30.0,Female,Berlin,Software Engineer,8,2,Senior,"Scala, React.js","Javascript / Typescript, SQL, AWS, Kubernetes, Docker",75000.0,,65000.0,,35,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+24/11/2020 11:59:20,32.0,Female,Kempten,Fullstack Developer,10,1,Middle,C#,"Javascript / Typescript, .NET, SQL",49000.0,,,,30,Full-time employee,Unlimited contract,English and German,51-100,Product,No,,
+24/11/2020 11:59:38,26.0,Female,Munich,Data Scientist,3,1,Junior,Ml/Python,"Python, AWS, Docker",70000.0,12000,,,28,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 12:10:05,31.0,Female,Munich,QA Engineer,7,3,Senior,Java,"Python, Ruby",68000.0,,58000.0,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,40.0,
+24/11/2020 12:13:24,42.0,Female,Berlin,QA Engineer,20,1,Middle,python,"Python, Javascript / Typescript",55000.0,,,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 12:14:23,40.0,Female,Munich,Software Engineer,20,7,Middle,Java,SQL,54000.0,,54000.0,,30,Full-time employee,Unlimited contract,German,101-1000,Behörde,No,,
+24/11/2020 12:14:27,36.0,Female,Erlangen,Project Manager,14,2,Middle,,Python,62000.0,,36000.0,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 12:17:32,36.0,Female,Munich,Backend Developer,5,1,Middle,PHP,"Javascript / Typescript, Docker",60000.0,5000,,,28,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+24/11/2020 12:21:33,33.0,Female,Berlin,QA Engineer,6,0.5,Middle,Java,"Python, Kubernetes",60000.0,,,,28,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,
+24/11/2020 12:29:35,33.0,Female,Berlin,QA Engineer,8,1.5,Senior,-,Python,50000.0,,42000.0,,24,Full-time employee,Unlimited contract,English,11-50,Startup,Yes,20.0,
+24/11/2020 12:48:17,30.0,Female,Berlin,QA Engineer,5,3,Middle,Python ,"Python, Kubernetes, Docker, Ansible",50000.0,4000,50000.0,4000,30,Full-time employee,Unlimited contract,German,101-1000,Product,No,,
+24/11/2020 12:55:58,35.0,Female,Berlin,Software Engineer,15,6,Senior,C#,.NET,76000.0,,,,30,Full-time employee,Unlimited contract,German,1000+,Product,No,24.0,
+24/11/2020 13:05:17,32.0,Female,Berlin,Product Manager,10,"4,5",Senior,,,60000.0,6000,54000.0,5400,30,Full-time employee,Unlimited contract,English,51-100,Consulting / Agency,No,0.0,
+24/11/2020 13:05:30,30.0,Female,Munich,Mobile Developer,10,3.5,Senior,Swift,"Kotlin, Javascript / Typescript",65000.0,5000,65000.0,5000,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 13:09:51,25.0,Female,Munich,Product Manager,3,0.5,Middle,--,,62000.0,,,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,0.0,
+24/11/2020 13:23:32,36.0,Female,Berlin,QA Engineer,14,7,Lead,Java,Kotlin,69000.0,6900,63000.0,6300,30,Full-time employee,Unlimited contract,English,11-50,Product,No,,
+24/11/2020 13:51:23,24.0,Female,Stuttgart,Software Engineer,2,1,Middle,iOS,"Swift, Flutter",55200.0,2000,,,30,Full-time employee,Unlimited contract,English,11-50,Consulting / Agency,No,20.0,
+24/11/2020 14:00:19,26.0,Female,Berlin,Software Engineer,6,4,Senior,.NET,".NET, SQL, Azure, Docker",65000.0,1000,56000.0,1000,27,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+24/11/2020 14:01:01,31.0,Female,Stuttgart,Data Scientist,4,2,Middle,R,"Python, R, Azure",65000.0,73000,62000.0,68000,30,Full-time employee,Unlimited contract,German,1000+,Product,No,35.0,
+24/11/2020 14:03:04,29.0,Female,Stuttgart,QA Engineer,6,2,Middle,JS,,54000.0,,,,26,Full-time employee,Unlimited contract,English,101-1000,Product,No,20.0,
+24/11/2020 14:06:46,30.0,Female,Frankfurt,QA Engineer,6,4,Senior,Bash,"Python, Java / Scala, SQL, AWS, Azure",70000.0,2000,70000.0,2000,30,Full-time employee,Unlimited contract,German,1000+,Bank ,No,,
+24/11/2020 14:26:28,31.0,Female,Berlin,Graphic Designer,11,2,Middle,,"Adobe Cloud, Sketch, 3Ds Max",32000.0,,21800.0,,27,Full-time employee,Temporary contract,English,101-1000,Startup,No,0.0,
+24/11/2020 14:40:25,32.0,Female,Stuttgart,Stuttgart,2,2,Junior,Java,,52000.0,4000,48000.0,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 14:54:48,33.0,Female,Berlin,QA Engineer,9,2,Middle,Java,,57000.0,,54000.0,,21,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,
+24/11/2020 15:08:28,33.0,Female,Munich,QA Engineer,6.5,3,Senior,,,58000.0,3500,55000.0,3000,30,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+24/11/2020 15:16:47,45.0,Female,Frankfurt,DB developer/Data analyst,6,0.9,Senior,T-SQL,,55000.0,,,,28,Full-time employee,Unlimited contract,English,11-50,Product,No,,
+24/11/2020 16:03:27,35.0,Female,Berlin,Frontend Developer,12,5,Middle,Javascript ,"AWS, Docker",70000.0,0,70000.0,0,29,Full-time employee,Unlimited contract,English,101-1000,E-commerce,No,,No
+24/11/2020 16:16:41,34.0,Female,Berlin,Software Engineer,9,3,Senior,Kotlin,"Python, Kotlin, Java / Scala, Google Cloud, Kubernetes, Docker",78000.0,3000,65000.0,7000,30,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+24/11/2020 16:34:40,29.0,Female,Munich,Software Engineer,5,4,Middle,"NodeJS, Typescript, AWS","Javascript / Typescript, Java / Scala, AWS",67000.0,5000,65000.0,4000,31,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+24/11/2020 17:24:17,36.0,Female,Berlin,Recruiter,11,4,Senior,,,70000.0,11000,55000.0,0,unlimited,Full-time employee,Unlimited contract,English,1000+,Product,No,,1500
+24/11/2020 18:10:47,28.0,Female,Berlin,Software Engineer,8,0,Lead,Javascript,,80000.0,0,,,28,Full-time employee,Unlimited contract,English,101-1000,Product,No,,500
+24/11/2020 18:39:13,41.0,Female,Munich,Data Engineer,12,12,Senior,,"Python, SQL, Azure",68000.0,4500,61500.0,5000,30,Full-time employee,Unlimited contract,German,101-1000,Consulting / Agency,Lost the job but for different reason,0.0,0
+24/11/2020 18:44:33,28.0,Female,Mannheim,Software Engineer,4,4,Junior,,"PHP, SQL, Perl",53000.0,,,,30,Full-time employee,Unlimited contract,English,1000+,Consulting / Agency,No,,
+24/11/2020 19:31:46,32.0,Female,Cologne,Data Scientist,4,4,Senior,Python,,85000.0,88000,76000.0,78000,30,Full-time employee,Unlimited contract,English,1000+,consumer goods,No,,no
+24/11/2020 19:47:34,27.0,Female,Berlin,Data Scientist,3,3,Middle,Python,"Python, SQL, Google Cloud, Kubernetes, Docker",58000.0,1000,55000.0,0,24,Full-time employee,Unlimited contract,English,51-100,Product,No,,
+24/11/2020 19:57:46,35.0,Female,Berlin,Designer (UI/UX),15,1,Middle,,,53000.0,65000,,,(no idea),Full-time employee,Unlimited contract,English,1000+,Product,No,,180€
+24/11/2020 20:15:27,37.0,Female,Berlin,Designer (UI/UX),2,1,Middle,,,70000.0,,,,,Full-time employee,Temporary contract,English,up to 10,Startup,No,,
+24/11/2020 20:26:58,28.0,Female,Berlin,Software Engineer,3,3,Middle,Javascript,"PHP, Javascript / Typescript",60000.0,0,55000.0,0,28,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,
+24/11/2020 20:28:38,31.0,Female,Munich,Software Engineer,2,2,Middle,Java,SQL,58000.0,3000,26000.0,1500,28,Full-time employee,Unlimited contract,German,1000+,Product,No,0.0,No
+24/11/2020 20:38:22,31.0,Female,Frankfurt,Software Engineer,2,2,Junior,,,50000.0,,,,28,Full-time employee,Unlimited contract,English,1000+,Consulting / Agency,No,,
+24/11/2020 20:39:33,32.0,Female,Berlin,Mobile Developer,7,3,Senior,Kotlin,"Python, Ruby",63000.0,,55000.0,0,26,Full-time employee,Unlimited contract,English,1000+,Product,No,,1100
+24/11/2020 20:41:20,30.0,Female,Berlin,QA Engineer,4,1,Middle,,Javascript / Typescript,52000.0,,,,20,Full-time employee,Unlimited contract,English,51-100,Startup,No,,
+24/11/2020 20:43:22,27.0,Female,Berlin,Backend Developer,3,1,Middle,,,60000.0,,,,24,Full-time employee,Unlimited contract,English,11-50,,No,32.0,
+24/11/2020 21:47:25,34.0,Female,Berlin,QA Engineer,6,2,Senior,Ruby,"Ruby, Java / Scala, AWS, Kubernetes, Docker",67500.0,0,61400.0,0,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+24/11/2020 21:52:03,27.0,Female,Munich,Frontend Developer,2,2,Middle,JavaScript,Javascript / Typescript,64000.0,0,50000.0,0,28,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,
+24/11/2020 22:08:31,42.0,Female,Munich,Software tester ,12,12,No level ,Java,,47500.0,47500,39000.0,39000,28,Part-time employee,Unlimited contract,German,51-100,Product,No,10.0,0
+24/11/2020 22:10:34,40.0,Female,Berlin,Fullstack Developer,8,8,Senior,C#,"PHP, Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker, React, Angular2+",57000.0,1500,54000.0,100,26,Full-time employee,Unlimited contract,German,51-100,Product,No,,
+24/11/2020 23:20:02,33.0,Female,Berlin,Software Engineer,6,3,Middle,java,"SQL, AWS, Kubernetes, Docker",65000.0,,54000.0,,28,Full-time employee,Unlimited contract,English,1000+,Startup,No,30.0,500
+24/11/2020 23:40:13,35.0,Female,Stuttgart ,QA Manager ,9,4,Middle,Jira,,60000.0,0,60000.0,0,30,Full-time employee,Unlimited contract,English,101-1000,Consulting / Agency,No,,No
+25/11/2020 00:01:59,31.0,Female,Berlin,Product Manager,,1,Senior,,,60000.0,,,,20,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+25/11/2020 01:29:48,31.0,Female,Berlin,QA Engineer,11,1.5,Middle,JS,"Ruby, SQL",57000.0,bvg only,55000.0,"learning budget, bvg, gym, food",30,Full-time employee,Unlimited contract,English,101-1000,Startup,No,0.0,0
+25/11/2020 07:27:58,25.0,Female,Berlin,Frontend Developer,4,1,Middle,Javascript / Typescript,NodeJS,60000.0,,,,23,Full-time employee,Unlimited contract,English,11-50,Startup,Yes,,
+25/11/2020 08:35:46,40.0,Female,Berlin,Software Engineer,"1,5","1,5",Junior,JavaScript ,Ruby,50000.0,,40000.0,5000,30,Full-time employee,Unlimited contract,English,51-100,Startup,No,,1200
+25/11/2020 09:06:43,26.0,Female,Berlin,Data Scientist,2,1,Junior,Python,"R, SQL, AWS, Docker",47000.0,0,,,25,Full-time employee,Unlimited contract,English,11-50,Consulting / Agency,No,40.0,0
+25/11/2020 09:40:44,36.0,Female,Berlin,DevOps,1,3,Middle,java,"Kubernetes, Docker",60000.0,5000,58000.0,,26,Full-time employee,Unlimited contract,English,51-100,Consulting / Agency,No,,
+25/11/2020 09:44:24,27.0,Female,Munich,Mobile Developer,1,1,Junior,"Kotlin, Java","Kotlin, Java / Scala",50000.0,0,50000.0,50000,27,Full-time employee,Unlimited contract,English,11-50,Startup,No,32.0,0
+25/11/2020 10:02:55,24.0,Female,Berlin,Software Engineer,2,2,Middle,,"Python, Javascript / Typescript, Java / Scala, SQL",58000.0,,,,30,Full-time employee,Unlimited contract,German,11-50,Consulting / Agency,No,,
+25/11/2020 10:50:19,36.0,Female,Munich,Frontend Developer,10,3,Middle,javascript,Javascript / Typescript,48000.0,0,40000.0,0,30,Part-time employee,Unlimited contract,German,101-1000,Product,No,,
+25/11/2020 10:53:48,29.0,Female,Berlin,Software Developer in Test,9,4,Lead,Java,"Javascript / Typescript, SQL, Docker",66000.0,0,60000.0,0,25,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,
+25/11/2020 10:56:28,28.0,Female,Berlin,Data Scientist,4,4,Middle,Python,"Python, SQL, Docker",65000.0,4000,56000.0,56000,27,Full-time employee,Unlimited contract,English,101-1000,,No,,1000
+25/11/2020 12:23:50,30.0,Female,Berlin,Data Scientist,6,5,Senior,python,"Python, SQL, Google Cloud, Kubernetes, Docker",76000.0,10000,63000.0,63000,27,Full-time employee,Unlimited contract,English,1000+,Product,No,,700
+25/11/2020 13:03:32,37.0,Female,Berlin,Data Scientist,2,2,Middle,Python,"R, SQL, AWS",62000.0,0,58000.0,600,30,Full-time employee,Unlimited contract,German,101-1000,Publisher,No,0.0,0
+25/11/2020 13:39:11,26.0,Female,Berlin,Data Scientist,4,1,Middle,"Sql, BQ, tableau, gtm, ga","Python, Javascript / Typescript, SQL",45000.0,0,45000.0,0,25,Full-time employee,Temporary contract,English,101-1000,Startup,Yes,,No
+25/11/2020 13:41:50,22.0,Female,Berlin,Business Development Manager Operations ,4,1,Middle,Business Development Manager Operation ,,39000.0,,39000.0,,24,Full-time employee,Temporary contract,English,1000+,Startup,No,0.0,No
+25/11/2020 13:45:45,28.0,Female,Amsterdam,Program Manager,10,3,Senior,Management,,86000.0,30000,75000.0,5000,31,Full-time employee,Unlimited contract,English,1000+,Product,No,,400 / month
+25/11/2020 13:54:19,30.0,Female,Berlin,Software Engineer,4,4,Middle,Python,"Python, Java / Scala, SQL, AWS, Kubernetes, Docker",56000.0,,55000.0,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,0
+25/11/2020 13:56:50,32.0,Female,Berlin,QA Engineer,10,"1,5",Middle,Java,Docker,68000.0,,62000.0,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+25/11/2020 14:08:18,30.0,Female,Berlin,QA Engineer,5,2,Middle,TS,,54000.0,,,,28,Full-time employee,Unlimited contract,English,11-50,Product,No,,
+25/11/2020 14:08:39,29.0,Female,Berlin,Data Scientist,0,0,intern,Python,"Python, SQL, AWS, Google Cloud, Docker",20000.0,20000,,,25,Full-time employee,Temporary contract,English,1000+,Product,No,,
+25/11/2020 14:21:26,28.0,Female,Berlin,Data Scientist,6,1,Senior,sql,"Python, R, SQL",70000.0,0,,,27,Full-time employee,Unlimited contract,English,1000+,Product,No,,700
+25/11/2020 14:53:46,45.0,Female,Berlin,Product Manager,15,7,Lead,Java,,52000.0,,52000.0,,28,Full-time employee,Unlimited contract,English,11-50,Product,No,2.0,No
+25/11/2020 16:06:56,25.0,Female,Frankfurt,Software Engineer,3,2,Middle,Java,"Javascript / Typescript, SQL",53000.0,5000,48000.0,2004,30,Full-time employee,Unlimited contract,German,1000+,Product,No,,550
+25/11/2020 16:42:43,36.0,Female,Berlin,Data Scientist,5,5,Senior,Python,"Python, Java / Scala, SQL, AWS",75000.0,0,75000.0,0,28,Part-time employee,Unlimited contract,English,51-100,Startup,No,,
+25/11/2020 17:02:13,32.0,Female,Berlin,Software Engineer,6,4,Lead,Java,"Python, Kotlin, AWS, Docker",75000.0,,75000.0,,28,Full-time employee,Unlimited contract,English,101-1000,Startup,No,30.0,
+25/11/2020 17:06:04,27.0,Female,Berlin,Data Analyst ,1,1,Middle,"Python, SQL","Python, SQL",63000.0,0,42000.0,46000,27,Full-time employee,Unlimited contract,English,1000+,Product,No,,600
+25/11/2020 17:13:52,28.0,Female,Berlin,Frontend Developer,3,3,Middle,JavaScript,,54500.0,,52000.0,,28,Full-time employee,Unlimited contract,English,101-1000,Product,No,0.0,
+25/11/2020 17:45:05,32.0,Female,Munich,Data Engineer,10,2,Middle,Python,"Python, SQL, AWS, Docker, Spark, Airflow",75000.0,0,70000.0,0,27,Full-time employee,Unlimited contract,English,11-50,Startup,Yes,,0
+25/11/2020 17:46:23,34.0,Female,Berlin,,13,3,Principal,python,"AWS, Terraform, Scala Spark, ",108000.0,,90000.0,,28,Full-time employee,Unlimited contract,English,1000+,Product,No,30.0,500
+25/11/2020 17:58:39,33.0,Female,Berlin,Designer (UI/UX),6,1,Middle,"Sketch, Figma",,42000.0,0,,,28,Full-time employee,Unlimited contract,English,51-100,Product,Yes,,
+25/11/2020 18:15:28,32.0,Female,Munich,QA Engineer,9,9,Middle,,,60000.0,,,,30,Full-time employee,Unlimited contract,German,101-1000,Product,No,,500
+25/11/2020 18:51:20,28.0,Female,Munich,QA Engineer,8,4,Senior,Kotlin,"Kotlin, Java / Scala, AWS, Kubernetes, Docker",75000.0,0,64000.0,6000,30,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+25/11/2020 19:02:20,21.0,Female,Cologne,Mobile Developer,2,2,Middle,,,50000.0,,,,,,,,,,,,
+25/11/2020 19:06:21,25.0,Female,Hamburg,working student (QA),1,1,Student,Ruby,"Java / Scala, SQL",12000.0,0,12000.0,0,12,working student,Temporary contract,English,1000+,Product,No,,
+25/11/2020 19:38:20,27.0,Female,Berlin,Backend Developer,5,"2,5",Middle,Kotlin,"Python, Kotlin, Java / Scala, Google Cloud, Kubernetes",65000.0,0,52000.0,0,30,Full-time employee,Unlimited contract,English,51-100,Product,No,,
+25/11/2020 19:44:59,32.0,Female,Munich,QA Engineer,8,1,Senior,Java,"Javascript / Typescript, C#",60000.0,70000,,,26,Full-time employee,Unlimited contract,English,101-1000,Consulting / Agency,No,,
+25/11/2020 20:34:33,31.0,Female,Ulm,QA Engineer,8,3,Middle,Java,Java / Scala,45000.0,,39000.0,,30,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+25/11/2020 23:08:40,26.0,Female,Dusseldorf,BI Consultant SAP/ Data Engineer,5,5,Middle,ABAP,"Python, SQL",65000.0,77000,46000.0,50000,30,Full-time employee,Unlimited contract,German,up to 10,Startup,No,,
+25/11/2020 23:42:47,35.0,Female,Munich,Backend Developer,4,4,Middle,PHP,"PHP, Javascript / Typescript, Java / Scala",51000.0,4000,47000.0,3500,30,Full-time employee,Unlimited contract,German,101-1000,Insurance,No,,
+26/11/2020 07:14:19,35.0,Female,Frankfurt,Software Engineer,1,1,Junior,ABAP,"SQL, SAP / ABAP",50000.0,0,50000.0,0,30,Full-time employee,Unlimited contract,German,51-100,Consulting / Agency,No,0.0,0
+26/11/2020 08:46:32,42.0,Female,Berlin,QA Engineer,10,3,Middle,"JS, WDIO","Javascript / Typescript, SQL, Docker",42000.0,0,32000.0,0,,Full-time employee,Unlimited contract,English,11-50,Startup,No,0.0,75% from government 
+26/11/2020 09:13:05,32.0,Female,Berlin,DevOps,9,5,Middle,"Terraform, Kubernetes, AWS, GCP, Ansible, Puppet","Ruby, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker",74000.0,10000,65000.0,,40,Full-time employee,Unlimited contract,English,101-1000,Product,No,0.0,0
+26/11/2020 09:26:37,30.0,Female,Karlsruhe,Product Manager,8,0,Middle,,,57760.0,6710,,,30,Full-time employee,Unlimited contract,English,11-50,Product,No,,
+26/11/2020 09:51:53,42.0,Female,Berlin,QA Engineer,5,5,Middle,Java,,46000.0,,46000.0,,26,Full-time employee,Unlimited contract,English,51-100,Product,No,30.0,No
+26/11/2020 10:07:39,25.0,Female,Tampere (Finland),computer vision researcher,3,3 months,Junior,Python,"Python, Tensorflow, Theano, Pytorch",23000.0,23000,,,30,Full-time employee,Temporary contract,English,51-100,Science Institute ,No,,
+26/11/2020 10:40:41,24.0,Female,Prague,Software Engineer,3,0,Middle,Java,"Java / Scala, AWS, Azure, Kubernetes, Docker",29000.0,0,23000.0,0,20,Full-time employee,Unlimited contract,English,11-50,Startup,No,,
+26/11/2020 11:33:16,29.0,Female,Berlin,Software Engineer,5,2,Middle,PHP,"Python, Javascript / Typescript, SQL, AWS, Google Cloud, Docker",55000.0,,47000.0,,24,Full-time employee,Unlimited contract,English,11-50,Startup,No,,
+26/11/2020 12:21:47,31.0,Female,Berlin,Software Engineer,1,1,Junior,React,"Python, AWS, Kubernetes, Docker, React",57000.0,1000,54000.0,1000,30,Full-time employee,Unlimited contract,English,1000+,Retail,No,0.0,0
+26/11/2020 21:35:14,39.0,Female,Munich,DevOps,11,11,Lead,,SQL,93000.0,,93000.0,,30,Part-time employee,Unlimited contract,German,1000+,Product,No,,
+26/11/2020 21:42:38,30.0,Female,Düsseldorf ,Analyst,2,2,Junior,R,"Python, SQL",45000.0,,,,28,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+26/11/2020 22:44:06,34.0,Female,Berlin,QA Engineer,1 (as QA Engineer) / 11 in total,11,Senior,Python,"AWS, Kubernetes, Docker",60000.0,2000,36000.0,0,28,Full-time employee,Unlimited contract,German,1000+,Product,No,40.0,250
+27/11/2020 00:35:10,35.0,Female,Berlin,Product Manager,13,6,Senior,,,85000.0,,64000.0,,26,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+27/11/2020 08:08:17,33.0,Female,Berlin,Data Scientist,8,4,Senior,Python ,"SQL, Google Cloud, Docker",77000.0,0,70000.0,0,27,Full-time employee,Unlimited contract,English,1000+,Product,No,,1700
+27/11/2020 09:50:36,26.0,Female,Moscow,Frontend Developer,6,0,Senior,JavaScript,Javascript / Typescript,33000.0,0,27000.0,0,,Full-time employee,Unlimited contract,Russian,101-1000,Product,No,0.0,0
+27/11/2020 12:44:12,26.0,Female,Berlin,Tech recruiting,"2,5","2,5",Middle,JS,Python,40000.0,1000,33000.0,0,25,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+27/11/2020 13:21:26,25.0,Female,Munich,ML Engineer,1,1,Junior,AI,"Python, SQL",57000.0,,,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+27/11/2020 13:31:20,38.0,Female,Regensburg,ML Engineer,3,3,Middle,Python,"R, SQL",65000.0,,60000.0,,30,Full-time employee,Temporary contract,German,1000+,Product,Yes,0.0,No
+27/11/2020 13:47:57,29.0,Female,Berlin,Data Scientist,2,2,Junior,R,Python,52000.0,0,,,30,Full-time employee,Unlimited contract,German,up to 10,Consulting / Agency,No,0.0,0
+27/11/2020 14:08:28,30.0,Female,Berlin,ML Engineer,5,1.5,Middle,pythin,"Python, SQL, Docker",51000.0,,46000.0,,30,Full-time employee,Unlimited contract,English,11-50,Startup,No,,
+27/11/2020 14:34:16,,Female,Berlin,Data Scientist,1,8,Junior,Python,"Python, R, SQL, Azure",55000.0,,,,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,No
+27/11/2020 14:55:13,29.0,Female,Cologne,ML Engineer,1,1,Middle,julia,,500000000.0,5000000000,500000000.0,50000000,99,Full-time employee,Unlimited contract,English,up to 10,Startup,No,0.0,0
+27/11/2020 15:26:10,27.0,Female,Berlin,Backend Developer,1,1,Junior,Java,,42000.0,3000,42000.0,3000,28,Full-time employee,Unlimited contract,German,101-1000,Product,No,,
+27/11/2020 17:46:19,32.0,Female,Berlin,BI Analyst ,1,1,Junior,Sql ,Python,48000.0,0,,,28,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,
+27/11/2020 18:13:16,29.0,Female,Berlin,Software Engineer,4,4,Middle,Java/Kotlin,"Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker",60000.0,15900,,,30,Full-time employee,Unlimited contract,English,101-1000,Consulting / Agency,No,,300
+27/11/2020 19:08:08,35.0,Female,Berlin,Frontend Developer,2,2,Junior,React,Javascript / Typescript,40000.0,,38000.0,,30,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,200 Amazon voucher
+27/11/2020 20:41:17,34.0,Female,Berlin,QA Engineer,7,0,Senior,Java,"Java / Scala, SQL, Docker",55000.0,,,,25,Full-time employee,Unlimited contract,English,101-1000,Product,No,,500
+27/11/2020 21:45:12,44.0,Female,Berlin,ML Engineer,13,0,Junior,,"Python, R, SQL, AWS, Google Cloud, Azure, Docker",45000.0,0,,0,,Full-time employee,Unlimited contract,English,51-100,Consulting / Agency,No,,
+28/11/2020 14:13:25,32.0,Female,Berlin,QA Engineer,10,4,Lead,Java,"Python, Kotlin, .NET, SQL, Go, Docker",65000.0,6000,55000.0,,33,Full-time employee,Unlimited contract,German,1000+,Product,No,,
+28/11/2020 20:23:28,39.0,Female,Stuttgart ,Project manager ,13,13,Senior,,,108000.0,0,102000.0,0,30,Full-time employee,Unlimited contract,German,1000+,Automotive ,No,32.0,
+28/11/2020 21:02:40,25.0,Female,Berlin,support engineer,2,2,Middle,python ,"Python, Javascript / Typescript, Ruby, SQL",45000.0,45000,12000.0,12000,26,Full-time employee,Unlimited contract,English,1000+,Startup,Yes,,
+29/11/2020 10:27:35,30.0,Female,Munich,Software Engineer,8,2,Senior,Java,"AWS, Docker",52000.0,,52000.0,,28,Full-time employee,Unlimited contract,German,1000+,Consulting / Agency,No,,
+29/11/2020 17:12:02,30.0,Female,Cologne,Data Scientist,8,7,Senior,"Python, cloud computing ","Python, SQL, AWS, Azure",85000.0,7000,83200.0,6800,30,Full-time employee,Unlimited contract,both,1000+,Utilities,No,,
+29/11/2020 18:51:15,30.0,Female,Jena,Software Engineer,4,4,Middle,JS,"Python, PHP, Javascript / Typescript, SQL, AWS",54000.0,,,,,Full-time employee,Temporary contract,English,101-1000,Institute,No,,
+30/11/2020 10:49:54,38.0,Female,Düsseldorf,Data Scientist,14,,Middle,R,"Python, R, SQL",70000.0,75000,70000.0,75000,32,Full-time employee,Unlimited contract,German,1000+,Product,No,0.0,0
+30/11/2020 11:24:53,30.0,Female,Stockholm,QA Engineer,7,1,Senior,Python,"Ruby, SQL",48000.0,,45600.0,,30,Full-time employee,Unlimited contract,English,51-100,Product,No,,
+30/11/2020 11:32:03,33.0,Female,Brunswick,Software Engineer,6,4,Middle,C++,Python,58000.0,6000,53000.0,14000,30,Full-time employee,Unlimited contract,German,1000+,Product,No,0.0,1000
+30/11/2020 12:08:57,37.0,Female,Berlin,Data Scientist,8,0.5,Middle,Python ,"SQL, AWS",67000.0,0,,,28,Full-time employee,Unlimited contract,English,1000+,Startup,No,,
+30/11/2020 12:17:06,27.0,Female,Munich,Backend Developer,6,4,Senior,Java,Python,85600.0,10000,75000.0,10000,25,Full-time employee,Unlimited contract,English,101-1000,Product,No,0.0,0
+30/11/2020 16:20:18,32.0,Female,Berlin,Engineering Team Lead,10,6,Lead,QA,,65000.0,3250,,,28,Full-time employee,Unlimited contract,English,101-1000,Product,No,,300
+30/11/2020 21:19:16,35.0,Female,Munich,Data Scientist,5,2,Senior,"SAS,SQL,Python","Python, SQL, SAS",75000.0,10000,,,30,Full-time employee,Unlimited contract,English,1000+,Bank,No,0.0,1500
+30/11/2020 23:26:56,26.0,Female,Berlin,Backend Developer,5,0,Middle,Java,Python,65000.0,75000,,,28,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+01/12/2020 00:06:49,32.0,Female,Munich,Data Scientist,5,5,Senior,Python ,"Python, Go",80000.0,0,75000.0,0,30,Full-time employee,Unlimited contract,German,1000+,Product,No,0.0,0
+01/12/2020 00:32:53,30.0,Female,Berlin,QA Engineer,8,6,Senior,Javascript,"Javascript / Typescript, AWS, Docker",70000.0,,,,31,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+01/12/2020 08:38:27,32.0,Female,Heidelberg ,Software Engineer,8,0,,Typescript,"Javascript / Typescript, .NET, C#, Angular ",60000.0,,,,24,Full-time employee,Unlimited contract,English,101-1000,Product,Yes,,
+01/12/2020 09:50:38,30.0,Female,Munich,Frontend Developer,9,3,Senior,"JavaScript, TypeScript",PHP,60000.0,4000,51000.0,4000,28,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+01/12/2020 10:11:09,26.0,Female,Hannover,QA Engineer,2,"0,3",Middle,Tricentis Tosca,"Java / Scala, SQL",32000.0,,,,30,Full-time employee,Unlimited contract,German,1000+,Non-tech retail,No,,
+01/12/2020 10:48:26,28.0,Female,Berlin,Data Analyst,3,2.5,Middle,SQL,"Python, Javascript / Typescript, Ruby, AWS",53000.0,0,43000.0,0,30,Full-time employee,Unlimited contract,English,101-1000,Product,No,,1500
+01/12/2020 14:21:01,23.0,Female,Berlin,Data analyst ,1,1,Junior,Sql ,"Python, R, SQL, Google Cloud",36000.0,36000,36000.0,36000,28,Full-time employee,Unlimited contract,English,1000+,Startup,No,,500
+01/12/2020 18:58:24,26.0,Female,Prague,Software Engineer,4,1,Middle,C#,.NET,64000.0,0,55000.0,0,25,Full-time employee,Unlimited contract,"Russian, English",1000+,Product,No,,
+01/12/2020 20:57:41,34.0,Female,Hildesheim ,QA Engineer,11,2,Senior,QA,"Python, SQL",60000.0,2000,60000.0,1000,30,Full-time employee,Unlimited contract,German,1000+,Product,No,5.0,
+02/12/2020 00:07:14,40.0,Female,Berlin,QA Engineer,16,4,Middle,,PHP,65000.0,,57000.0,,,Full-time employee,Unlimited contract,English,11-50,Startup,Yes,,
+02/12/2020 10:35:10,22.0,Female,Eindhoven,Frontend Developer,2,-,Junior,JS,"Javascript / Typescript, SQL, Docker",24000.0,-,,-,24,Full-time employee,Unlimited contract,English,11-50,Product,Laid off for a bit,32.0,-
+02/12/2020 11:52:05,26.0,Female,Berlin,Backend Developer,7,0.5,Senior,,,60000.0,,,,24,Full-time employee,Unlimited contract,English,up to 10,Product,No,,
+02/12/2020 21:42:33,36.0,Female,Berlin,Data Scientist,5,5,Senior,Python,"Python, R",87000.0,15000,77000.0,12000,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+02/12/2020 22:41:04,32.0,Female,Munich,It Consulting ,2,2,Junior,Test Management ,,54000.0,1500,47000.0,700,27,Full-time employee,Unlimited contract,German,1000+,Consulting / Agency,No,,150
+03/12/2020 11:04:39,28.0,Female,Berlin,Data Scientist,4,2,Middle,Python,Python,73700.0,80400,67000.0,67000,28,Full-time employee,Unlimited contract,English,1000+,Product,No,0.0,200
+04/12/2020 09:21:01,33.0,Female,Berlin,Frontend Developer,13,4,Middle,"Angular, TypeScript",Javascript / Typescript,47745.0,3800,47745.0,3800,30,"full-time, but 32 hours per week (it was my request, I'm a student)",Unlimited contract,English,1000+,Product,No,0.0,0
+04/12/2020 10:37:11,39.0,Female,Berlin,Data Scientist,2.5,2,Junior,python,"C/C++, R, SQL",60000.0,60000,60000.0,60000,30,Full-time employee,Unlimited contract,English,up to 10,corporate incubator,Yes,,no
+04/12/2020 11:51:26,30.0,Female,Berlin,Software Engineer,7,3,Senior,Java,"Python, Javascript / Typescript",60000.0,,55000.0,,27,Full-time employee,Unlimited contract,English,51-100,Product,No,0.0,0
+04/12/2020 18:56:48,28.0,Female,Berlin,Designer (UI/UX),5,1,Senior,,,60000.0,0,,,26,Full-time employee,Unlimited contract,English,1000+,Consulting / Agency,No,,
+05/12/2020 12:43:21,25.0,Female,Amsterdam,Data Scientist,1.5,0,Middle,Python,"AWS, Docker",49850.0,500,36000.0,0,25,Full-time employee,Unlimited contract,English,11-50,Startup,No,,150
+05/12/2020 17:29:17,28.0,Female,Berlin,Backend Developer,3,2,Middle,Python,"AWS, Docker",65000.0,0,65000.0,0,30,Full-time employee,Unlimited contract,English,1000+,Product,No,,0
+06/12/2020 21:17:41,32.0,Female,Berlin,Computational linguist,5,5,Middle,Java,"Python, Docker",50400.0,0,50400.0,0,29,Full-time employee,Unlimited contract,English,11-50,Product,No,40.0,0
+07/12/2020 08:28:00,27.0,Female,Berlin,Data Scientist,5,2,Senior,Python ,"SQL, AWS, Google Cloud, Docker",75000.0,0,60000.0,60000,24,Full-time employee,,English,101-1000,Product,No,,
+08/12/2020 21:41:06,31.0,Female,Berlin,Product Manager,4,,Middle,,SQL,60000.0,0,70000.0,,28,Full-time employee,Unlimited contract,English,101-1000,Startup,Yes,,
+08/12/2020 21:57:59,25.0,Female,Cambridge,Frontend Developer,4,0,Middle,JavaScript/Typescript,Javascript / Typescript,45000.0,45000,,,28,Full-time employee,Unlimited contract,English,101-1000,Product,No,37.5,I was able to move all equipment I need to work to home
+09/12/2020 10:09:49,37.0,Female,Hamburg,QA Manager,7,7,Middle,java,,46000.0,2000,45000.0,1800,30,Full-time employee,Unlimited contract,German,101-1000,Product,No,,
+09/12/2020 13:37:29,26.0,Female,Berlin,Mobile Developer,8,3,Middle,c++,"C/C++, SAP / ABAP",40000.0,2000,15000.0,,36,Self-employed (freelancer),Temporary contract,German,101-1000,Product,No,,
+11/12/2020 22:00:36,34.0,Female,Berlin,Designer (UI/UX),10,6,Senior,"PS, Sketch, React, CSS3",Javascript / Typescript,45000.0,,45000.0,,30,Full-time employee,Unlimited contract,German,up to 10,Product,No,35.0,0
+13/12/2020 15:03:32,27.0,Female,Lisbon,Backend Developer,3,0,Middle,Java,"Java / Scala, SQL",17500.0,1250,16000.0,1100,22,Full-time employee,Unlimited contract,English,1000+,Consulting / Agency,No,,
+13/12/2020 15:20:17,32.0,Female,Berlin,Software Engineer,2,2,Middle,Javascript,"Python, Javascript / Typescript, Go",63000.0,3000,50000.0,0,27,Full-time employee,Unlimited contract,English,101-1000,Product,No,,100
+13/12/2020 18:25:45,25.0,Female,Berlin,Software Engineer,4,1,Middle,"Scala, Apache Spark","Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker",65000.0,Not sure,,,28,Full-time employee,Unlimited contract,English,101-1000,Product,No,,
+13/12/2020 21:23:15,37.0,Female,Berlin,Data Scientist,7,2,Head,Python,"SQL, AWS, Docker, Matlab",75000.0,16000,,,28,Full-time employee,Unlimited contract,English,11-50,Startup,No,0.0,No
+14/12/2020 14:33:10,30.0,Female,Hamburg,Software Engineer,5,2,Senior,Java,,70000.0,20000,,,,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+14/12/2020 14:33:19,30.0,Female,Hamburg,Software Engineer,5,2,Senior,Java,,70000.0,20000,,,,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+18/12/2020 07:55:08,35.0,Female,Berlin,Product Manager,5,2,Senior,,SQL,60000.0,,50000.0,,28,Full-time employee,Unlimited contract,English,101-1000,Startup,No,8.0,
+21/12/2020 13:45:43,28.0,Female,Berlin,Frontend Developer,5,2,Senior,javascript,"Google Cloud, Docker",64000.0,2000,60000.0,,28,Full-time employee,Unlimited contract,English,1000+,Product,No,,
+21/12/2020 14:52:24,29.0,Female,Berlin,Project Manager,6,"0,5",Middle,Web,,51000.0,,,,28,Full-time employee,Unlimited contract,English,101-1000,Startup,No,,
+22/12/2020 18:36:24,35.0,Female,Munich,Application Consultant,"1,5","1,5",Junior,SAP,SAP / ABAP,46000.0,2000,,,28,Full-time employee,Unlimited contract,English,1000+,Consulting / Agency,No,0.0,"0,00"
+25/12/2020 21:58:38,33.0,Female,Munich,Software Engineer,10,3,Senior,Java,SQL,47500.0,0,47500.0,0,25,Full-time employee,Unlimited contract,English,11-50,Outsourse,No,,0
+28/12/2020 22:24:47,24.0,Female,Munich,Software Engineer,less than year,less than year,student,"Python, database technologies","Python, Java / Scala, SQL, AWS",16320.0,16320,,,10,Part-time employee,Unlimited contract,English,11-50,Startup,No,,
+30/12/2020 02:23:59,30.0,Female,Berlin,Frontend Developer,3,3,Lead,JavaScript ,"AWS, Docker",57600.0,0,51200.0,0,30,Full-time employee,Unlimited contract,English,101-1000,Product,No,0.0,No
+08/01/2021 17:23:19,33.0,Female,Munich,Testmanager,10,2,Junior,Java,SQL,60000.0,60000,55000.0,60000,30,Full-time employee,Unlimited contract,German,1000+,Product,No,0.0,No
+14/01/2021 01:14:58,31.0,Female,Berlin,Data Scientist,4,3,Middle,spark,"Python, SQL, AWS",50500.0,,49000.0,,30,,Unlimited contract,English,1000+,Product,No,,500
+16/01/2021 19:35:40,32.0,Female,Munich,QA Engineer,8,5,Senior,Java,Java / Scala,55000.0,,,,,,,German,11-50,Product,No,,no
